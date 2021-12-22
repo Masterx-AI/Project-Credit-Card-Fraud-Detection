@@ -53,7 +53,7 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 <!--**5. Data Retention after preforming preprocessing step**-->
 **5. Fraudulent Transactions for various amounts across timstamps after undersampling**
 
-![image](https://user-images.githubusercontent.com/54996245/147120409-f4e7b0f7-a4ff-4398-9e1f-ba2e87c12dc8.png)
+![image](https://user-images.githubusercontent.com/54996245/147134712-98417e51-e505-4993-b514-332caad3d99b.png)
 
 **6. Correlation plot for features**
 
