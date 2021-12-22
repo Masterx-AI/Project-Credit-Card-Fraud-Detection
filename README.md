@@ -39,7 +39,7 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 <p align="left"><img src="https://user-images.githubusercontent.com/54996245/147120205-c9ff7616-cabf-43a8-846f-f07e8213ac52.png" /></p>
 
 <!--**2. Categorical Feature-set Distribution**-->
-**Fraudulent Transactions for various amounts across timstamps
+**2. Fraudulent Transactions for various amounts across timstamps**
 
 ![image](https://user-images.githubusercontent.com/54996245/147120339-12cd6961-6f16-4664-b03b-164d7b75310d.png)
 
@@ -50,9 +50,8 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 **4. Relationship between the Feature-set**
 
-
-
-**5. Data Retention after preforming preprocessing step**
+<!--**5. Data Retention after preforming preprocessing step**-->
+**5. Fraudulent Transactions for various amounts across timstamps after undersampling**
 
 ![image](https://user-images.githubusercontent.com/54996245/147120409-f4e7b0f7-a4ff-4398-9e1f-ba2e87c12dc8.png)
 
@@ -62,25 +61,25 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 **7. VIF & RFE Scores & PCA Decomposition**
   
-![image](https://user-images.githubusercontent.com/54996245/147120457-51fc6718-fb59-4125-a4ac-a3b33aa890dd.png)
-![image](https://user-images.githubusercontent.com/54996245/147120467-c9db4036-7aa6-473e-aa61-196fb919dec8.png)
-![image](https://user-images.githubusercontent.com/54996245/147120482-6654c0db-87a7-4748-b233-d70bbb1e981f.png)
-![image](https://user-images.githubusercontent.com/54996245/147120507-ab3e880f-333e-491a-9d2a-f31564395014.png)
+![image](https://user-images.githubusercontent.com/54996245/147134645-f5c1ef79-83e3-4296-be0e-a0580c19eb9e.png)
+![image](https://user-images.githubusercontent.com/54996245/147134582-40e8444a-c55b-4837-b2bc-2474da4fc46c.png)
+![image](https://user-images.githubusercontent.com/54996245/147134612-19fb77f3-54a8-4bf7-8c5b-0cc4fe9eb117.png)
+![image](https://user-images.githubusercontent.com/54996245/147134568-bdbf39cd-51b9-44c3-9a9f-3d18fc22ad99.png)
 
 **8. ROC Plots**
 
-![image](https://user-images.githubusercontent.com/54996245/147120537-f90d6450-4ded-42f2-a6c7-06d0e91a3598.png)
+![image](https://user-images.githubusercontent.com/54996245/147134546-005f3054-7cfd-4cbe-a5fc-6a9d17450f63.png)
 
 **9. Tree Plot & Feature Importance in Random Forest
   
-![image](https://user-images.githubusercontent.com/54996245/147120559-55c2a1a5-0061-4d2f-b8e1-3d034ee2efb6.png)
-![image](https://user-images.githubusercontent.com/54996245/147120576-6ef9c12c-b1e2-4506-860a-ad519a491b0b.png)
+![image](https://user-images.githubusercontent.com/54996245/147134525-803f3ba3-e653-4820-b868-c9f07574b9a7.png)
+![image](https://user-images.githubusercontent.com/54996245/147134515-6c232d18-c2b6-4795-b853-7a9adba17838.png)
 
 
 **10. ML Algorithm's Scores for the Dataset**
   
-![image](https://user-images.githubusercontent.com/54996245/147120612-8812ebc7-4c15-4361-868c-642e996d7328.png)
-![image](https://user-images.githubusercontent.com/54996245/147120629-1598c250-dbf7-44ef-8626-d1bdc67dd454.png)
+![image](https://user-images.githubusercontent.com/54996245/147134486-c34dd9af-55f7-4e5a-9277-2fa5758006cf.png)
+![image](https://user-images.githubusercontent.com/54996245/147134475-c9722e6f-5525-4c24-8248-d393b6740c73.png)
 
   
 ### Here are some of the key outcomes of the project:
